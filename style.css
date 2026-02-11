@@ -6,7 +6,7 @@
 /* BODY BACKGROUND */
 body {
   margin: 0;
-  background: url("roses-bg.png") center/cover no-repeat fixed;
+  background: url("roses.png") center/cover no-repeat fixed;
   background-size: cover; /* ensures it always covers the screen */
 }
 
@@ -181,3 +181,4 @@ button:hover {
   color: white;
   transition: 0.2s ease;
 }
+
