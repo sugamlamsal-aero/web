@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  background: url("roses-bg.jpg") center/cover no-repeat fixed;
+  background: url("roses-bg.png") center/cover no-repeat fixed;
 }
 
 /* PAGE SYSTEM */
@@ -182,5 +182,6 @@ button:hover {
   color: white;
   transition: 0.2s ease;
 }
+
 
 
