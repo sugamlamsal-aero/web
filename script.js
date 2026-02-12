@@ -21,7 +21,8 @@ const FORM_URL =
 
 const responses = {
   gift: "",
-  drink: ""
+  drink: "",
+  valentine: ""
 };
 
 function saveAnswer(question, value) {
@@ -119,6 +120,7 @@ function moveButton(btn) {
   btn.style.left = randomX + "px";
   btn.style.top = randomY + "px";
 }
+
 
 
 
