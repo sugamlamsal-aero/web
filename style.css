@@ -3,13 +3,6 @@
   font-family: "Segoe UI", sans-serif;
 }
 
-/* BODY BACKGROUND */
-body {
-  margin: 0;
-  background: url("roses.png") center/cover no-repeat fixed;
-  background-size: cover; /* ensures it always covers the screen */
-}
-
 /* PAGE SYSTEM */
 .page {
   display: none;
@@ -181,6 +174,7 @@ button:hover {
   color: white;
   transition: 0.2s ease;
 }
+
 
 
 
