@@ -3,6 +3,10 @@
   font-family: "Segoe UI", sans-serif;
 }
 
+body {
+  margin: 0;
+}
+
 /* PAGE SYSTEM */
 .page {
   display: none;
