@@ -33,6 +33,7 @@ function sendResponses() {
   const data = new FormData();
   data.append("entry.1584006371", responses.gift);
   data.append("entry.927093443", responses.drink);
+  data.append("entry.2036340109", responses.valentine);
 
   fetch(FORM_URL, {
     method: "POST",
@@ -120,6 +121,7 @@ function moveButton(btn) {
   btn.style.left = randomX + "px";
   btn.style.top = randomY + "px";
 }
+
 
 
 
